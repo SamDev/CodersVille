@@ -1,5 +1,5 @@
 <?php
 //comments
 echo 'tester';
-//Edit
+//Edits
 ?>
