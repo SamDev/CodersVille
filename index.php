@@ -1,5 +1,5 @@
 <?php
-//comments
-echo 'tester';
+//index.php tester file
+echo 'hello Tester';
 //Edits
 ?>
